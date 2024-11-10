@@ -1,0 +1,15 @@
+#!/bin/sh
+
+tee %{_datarootdir}/applications/qreminder.desktop > /dev/null << EOF
+[Desktop Entry]
+Type=Application
+Name=QReminder
+GenericName=Reminders
+Comment=Make quick time events
+Keywords=reminder;alarm;note;kiosk;time;timer;retrospective;
+Path=/opt/qreminder/
+Exec=qreminder %U
+Icon=org.gnome.clocks
+Terminal=false
+Categories=Office;Qt;
+EOF

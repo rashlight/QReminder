@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="system">images/brightness_auto.svg</file>
+        <file alias="light">images/brightness_high.svg</file>
+        <file alias="dark">images/brightness_low.svg</file>
+        <file alias="settings">images/settings.svg</file>
+        <file alias="add">images/add_circle.svg</file>
+        <file alias="dot">images/fiber_manual_record.svg</file>
+        <file alias="saveLoad">images/save.svg</file>
+        <file alias="delete">images/delete.svg</file>
+        <file alias="copy">images/content_copy.svg</file>
+        <file alias="paste">images/content_paste.svg</file>
+        <file alias="windowed">images/close_fullscreen.svg</file>
+        <file alias="fullScreen">images/open_in_full.svg</file>
+        <file alias="skip">images/fast_forward.svg</file>
+        <file alias="check">images/check_circle.svg</file>
+        <file alias="constrast">images/contrast.svg</file>
+        <file alias="info">images/info.svg</file>
+        <file alias="sadMood">images/sentiment_dissatisfied.svg</file>
+        <file alias="neutralMood">images/sentiment_neutral.svg</file>
+        <file alias="happyMood">images/sentiment_satisfied.svg</file>
+        <file alias="dynamicMood">images/sentiment_content.svg</file>
+        <file alias="clear">images/backspace.svg</file>
+        <file alias="kiosk">images/kiosk.svg</file>
+        <file alias="undo">images/undo.svg</file>
+        <file alias="redo">images/redo.svg</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file alias="happy">music/happy.wav</file>
+        <file alias="neutral">music/neutral.wav</file>
+        <file alias="sad">music/sad.wav</file>
+    </qresource>
+</RCC>

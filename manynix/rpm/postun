@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rm %{_datarootdir}/applications/qreminder.desktop

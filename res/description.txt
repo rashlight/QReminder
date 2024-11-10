@@ -1,0 +1,3 @@
+QReminder is an application to create events using a timer-based system to encourage event-based thinking (retrospective timing).
+
+Other features include color labeling, custom alarm moods, manual saving / loading and a kiosk mode.
