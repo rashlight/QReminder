@@ -53,6 +53,10 @@ See [docs/FAQ.md](./docs/FAQ.md).
 
 See [docs/BUILDING.md](./docs/BUILDING.md).
 
+# Contributions
+
+All contributions are welcome.
+
 # Credits
 
 Made with Qt 6.8. The Qt framework and other related components 
