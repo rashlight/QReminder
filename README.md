@@ -67,5 +67,5 @@ Apache License 2.0 and CC-BY 4.0 license, respectively.
 
 # License
 
-Your can use this project under the terms of the GNU General Public License, version 3 
+You can use this project under the terms of the GNU General Public License, version 3 
 or at your option, any later version. See LICENSE file for more information.
